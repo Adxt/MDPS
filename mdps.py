@@ -77,6 +77,5 @@ if (selected == 'Diabetes Prediction'):
 
 
 
-    st.success(parkinsons_diagnosis)
 
 
